@@ -1,2 +1,2 @@
 # capstone-discord-bot
-a bot i'm going to write for my school project
+a bot that me and @rpiumpun is going to write for our school project
